@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardoleonh&label=Profile%20views&color=0e75b6&style=flat" alt="ricardoleonh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricardoleonh" alt="ricardoleonh" /></a> </p>
-
 - 🔭 I’m currently working on [Order summary component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
 
 - 🌱 I’m currently learning **HTML, CSS and Javascript**
